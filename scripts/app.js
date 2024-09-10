@@ -1,5 +1,3 @@
-/* console.log('Hi! I am so horny!') */
-/* Select movie original poster */
 let moviePoster = document.querySelector('.poster');
 
 /* Select modal window layer */
